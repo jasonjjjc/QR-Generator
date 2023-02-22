@@ -15,7 +15,7 @@ function App() {
       const response = await fetch(
         `https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=${site}&bgcolor=${color}`
       );
-      console.log(response);
+      // console.log(response);
       setSite(response);
     }
     getUrl();
@@ -27,12 +27,12 @@ function App() {
   function handleClick(e) {
     e.preventDefault();
     setSite(value);
-    console.log(value);
+    // console.log(value);
   }
 
   function getInputText(e) {
     value = e.target.value;
-    console.log(value);
+    // console.log(value);
   }
 
   return (
