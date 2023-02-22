@@ -1,34 +1,28 @@
-# Welcome to Flash-IT!! 
+# Welcome to QR-Generator!! 
 
-### Time to complete : 5 days
-### Team Members : 4
+### Time to complete : 1 day
+### Team Members : 3
 
 
 ## Summary 
 
-This is the world's first ever dedicated tech interview flash card app. It gives users a quick and fun way to access many example questions that have been gathered from tech interview websites. The extremely simple UI gives it instant appeal, the colour scheme is deliberately reminiscent of Codewars with its bright greens, yellows and reds, so users will instantly feel familiarity and joy from using the site.
+This is our own custom spinning QR-code generator. The spinning element makes it much more fun to use than other QR code generators and the custom elements we wanted to build into it would have made it great for marketing in business cards and online channels. 
 
 ## Liked
 
-This was the first time I created something using React components. I have to say I did not like React in the beginning because it seemed like a long way around doing things I was able to do using Vanilla javascript, but once I understood the complexity that such a simple app can develop, I realised the benefit of using React to separate concerns. 
-
-The api fetch request was relatively straightforward as I had done a couple of other projects calling APIs before. This was, however, the first time that I had used React useEffect to fetch API data on page load and then used usestate to store the data for use on the page. The combination of useEffect and useState hooks is a very powerful tool that I want to deploy to create a few more projects once the bootcamp is over.
-
-Finally, I really enjoyed working with my teammates to create a unique experience through CSS to make a UI that was so simple and attractive that we have enjoyed using it even after the project was complete. 
+For one day I felt like we achieved a lot. We got along really well as a team and had fun making it. I also really liked that we gave the site a slight USP by playing with CSS animations to have the QR code rotate. And yes it still works!
 
 ## Learnt
 
-I particularly enjoyed learning about React because for the first time I was truly being challenged to learn something that I found difficult to grasp and I was proud of the way I managed to keep going until I fully understood the hooks in use. I enjoyed the journey from dread and fear to competence and enjoyment where people were asking me for help. And there's no better feeling than having people ask me for help!
+We got to learn about JSON body to post RESTful fetch requests to an API and then used the response from the request to populate the page. I learnt that we should spend at least half the allocated time planning instead of racing into doing the first idea that we agreed on. 
 
 ## Lacked 
 
-This project definitely showed that I lacked a complete understanding of JSON and using Postman to full effect to send fetch requests to all RESTful API CRUD routes. I did not get around to adding functionality for adding custom questions and answers because we spent so long struggling with getting post requests to work - I will definitely be putting myself forward for the back-end role on the next project to improve my learning in this area.
-
+The number one thing I felt lacking in this project was a sense of purpose- there are many QR generators out there and ours doesn't offer anything particularly different aside from a unique UX.
 
 ## Longed For
 
-I would have liked to have a larger database of question and answers but the time constraints restricted us significantly.
+I think we should have spent more time planning the project idea to come up with something more creative instead of settling on the first project idea that we all agreed to do. Other weeks when we spent half the day iterating ideas it seemed that we made a more useful end product. 
 
 
-
-I hope you enjoy using the app!
+I hope you enjoy using the site!
